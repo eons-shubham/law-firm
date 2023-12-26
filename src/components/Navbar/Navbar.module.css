@@ -1,0 +1,35 @@
+.navbar {
+  color: var(--color-white);
+  display: flex;
+  justify-content: space-around;
+  line-height: 26px;
+  position: relative;
+  top: 53px;
+}
+
+.option {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 431px;
+  font-weight: 600;
+  line-height: 26px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn {
+  position: relative;
+  top: 5px;
+}
+
+.btn button {
+  height: 47px;
+  border: 2px solid white;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px 16px 10px 16px;
+}
