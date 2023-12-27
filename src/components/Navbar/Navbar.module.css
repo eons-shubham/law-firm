@@ -1,9 +1,11 @@
 .navbar {
   color: var(--color-white);
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   line-height: 26px;
   position: relative;
+  width: 1135px;
+  left: 153px;
   top: 53px;
 }
 

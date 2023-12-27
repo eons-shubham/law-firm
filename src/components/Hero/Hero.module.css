@@ -1,0 +1,86 @@
+.herosection {
+  color: var(--color-white);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 1135px;
+  left: 153px;
+  gap: 99px;
+}
+
+.description p:first-child {
+  font-weight: 700;
+  font-size: 66px;
+  line-height: 97px;
+  position: relative;
+  top: 150px;
+}
+
+.description p:nth-child(2) {
+  position: relative;
+  top: 136px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 29px;
+  color: #444444;
+  width: 571px;
+  height: 194px;
+}
+
+.description input {
+  position: relative;
+  top: 36px;
+}
+
+.bannerImage {
+  position: relative;
+  top: 120px;
+  width: 467px;
+}
+
+.inputArea {
+  position: relative;
+  top: 18px;
+  right: 5px;
+}
+
+.inputArea input {
+  width: 438px;
+  height: 74px;
+  border: 0px;
+  border-radius: 43px;
+  background-color: #363636;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  font-weight: 500;
+  opacity: 50%;
+}
+
+.inputArea input::placeholder {
+  position: relative;
+  right: 60px;
+}
+
+.inputArea button {
+  background-color: var(--color-primary);
+  width: 137px;
+  height: 62px;
+  border-radius: 43px;
+  position: absolute;
+  top: 43px;
+  right: 136px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  border: 0px;
+}
+
+.inputArea img {
+  position: relative;
+  top: 40px;
+  right: 400px;
+  opacity: 10%;
+}
