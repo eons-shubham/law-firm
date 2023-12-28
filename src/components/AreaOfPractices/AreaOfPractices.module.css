@@ -1,0 +1,16 @@
+.areaOfPracticesBody {
+  color: var(--color-white);
+  position: relative;
+  top: 865px;
+  left: 145px;
+  border-radius: 14px;
+}
+
+.areaOfPracticesBody p {
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+  position: relative;
+  left: 366px;
+}

@@ -1,0 +1,44 @@
+.introductionBody {
+  width: 1132px;
+  height: 174px;
+  position: relative;
+  top: 100px;
+  left: 150px;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.introductionBody div:first-child {
+  width: 387px;
+  height: 174px;
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 87px;
+}
+
+.introductionBody div:nth-child(3) {
+  height: 174px;
+  width: 475px;
+  position: relative;
+  bottom: 30px;
+}
+
+.introductionBody div:nth-child(3) p:first-child {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 52px;
+}
+
+.introductionBody div:nth-child(3) p:nth-child(2) {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  color: #ffffff;
+  opacity: 30%;
+}
+.line {
+  height: 206px;
+  width: 0px;
+  border: 2px solid #6a6a6a;
+}

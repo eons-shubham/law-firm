@@ -1,0 +1,36 @@
+.sectionBody {
+  width: 1137px;
+  height: 626px;
+  position: relative;
+  top: 1000px;
+  left: 154px;
+  border-radius: 14px;
+  color: white;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading p {
+  width: 374px;
+  height: 154px;
+  top: 3585px;
+  left: 155px;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.heading img {
+  position: relative;
+  top: 110px;
+}
+
+.card {
+  display: flex;
+  gap: 30px;
+}

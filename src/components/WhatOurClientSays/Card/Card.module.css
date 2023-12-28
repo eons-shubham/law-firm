@@ -1,0 +1,49 @@
+.cardbody {
+  width: 359px;
+  height: 368px;
+  top: 3843px;
+  left: 154px;
+  border-radius: 14px;
+  border: 1.4px solid #383838;
+}
+
+.cardbody img {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.cardbody p:nth-child(2) {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.cardbody p:nth-child(3) {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.cardbody p:nth-child(4) {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 40%;
+  position: relative;
+  top: 20px;
+  left: 20px;
+  width: 293px;
+  height: 92px;
+}

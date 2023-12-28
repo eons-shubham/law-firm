@@ -1,0 +1,22 @@
+.chooseUsBody {
+  position: absolute;
+  top: 400px;
+  color: var(--color-white);
+  left: 146px;
+}
+
+.chooseUsBody h3 {
+  width: 500px;
+  height: 77px;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  position: relative;
+  left: 366px;
+}
+
+.cardgrid {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 26px;
+}

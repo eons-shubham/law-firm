@@ -1,0 +1,54 @@
+.cardBody {
+  width: 359px;
+  height: 377px;
+  border: 2px solid #383838;
+  border-radius: 10px;
+}
+.imageDiv {
+  background-color: #ffffff;
+  width: 101px;
+  height: 101px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 30px;
+  top: 33px;
+}
+.paraDiv p:first-child {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: relative;
+  left: 30px;
+  top: 33px;
+}
+.paraDiv p:nth-child(2) {
+  width: 293px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 30%;
+  position: relative;
+  left: 30px;
+  top: 33px;
+}
+.cardBody button {
+  width: 121px;
+  height: 43px;
+  background-color: var(--color-primary);
+  position: relative;
+  top: 43px;
+  left: 30px;
+  border-radius: 20px;
+  border: 0px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0em;
+}
