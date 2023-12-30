@@ -1,0 +1,46 @@
+.cardBody {
+  display: flex;
+  margin-bottom: 100px;
+  /* margin-top: 50px; */
+  position: relative;
+}
+.specialGrade {
+  background-color: var(--color-primary);
+  color: black;
+  width: 344px;
+  height: 109px;
+  border-radius: 14px;
+  position: absolute;
+  left: 452px;
+}
+
+.textBody p:first-child {
+  width: 119px;
+  height: 24px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  left: 100px;
+}
+
+.textBody p:nth-child(2) {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 30%;
+  position: absolute;
+  top: 40px;
+  left: 100px;
+  width: 71px;
+}
+
+.image {
+  position: relative;
+  top: 15px;
+  left: 15px;
+}

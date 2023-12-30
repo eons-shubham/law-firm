@@ -1,0 +1,28 @@
+.teamBody {
+  color: white;
+  width: 1000px;
+  height: 425px;
+  position: relative;
+  top: 1200px;
+  left: 154px;
+}
+
+.heading {
+  position: relative;
+  left: 430px;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+}
+
+.xaxis {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yaxis {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
